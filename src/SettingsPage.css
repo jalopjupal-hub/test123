@@ -1,0 +1,9 @@
+.settings-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.settings-header__logout {
+  cursor: pointer;
+}
